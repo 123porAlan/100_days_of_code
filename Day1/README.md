@@ -6,4 +6,5 @@ If you don't know the name of your band, this program can help you, through an a
 
 Execution:
 > In your terminal, type the following: python main.py
+
 > Or alternatively write python3 main.py
