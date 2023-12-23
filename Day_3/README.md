@@ -19,18 +19,6 @@ Welcome to the Treasure Island Adventure game! This text-based adventure allows 
      - Choose a color by typing it.
      - Your fate awaits you behind the chosen door.
 
-4. **Endings:**
-   - **Yellow Door:**
-     - Congratulations! You found the treasure! You Win!
-   - **Red Door:**
-     - Oh no! You're burned by fire. Game Over!
-   - **Other Choices:**
-     - You might encounter wild beasts or a trout attack. Beware!
-
-5. **Other Path:**
-   - If you chose the right path:
-     - Uh-oh! You've fallen into a hole with no way out. Game Over!
-
 ## How to Play
 
 1. Clone the repository:
