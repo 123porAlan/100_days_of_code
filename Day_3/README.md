@@ -36,4 +36,6 @@ Welcome to the Treasure Island Adventure game! This text-based adventure allows 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/treasure-island-adventure.git
+   https://github.com/123porAlan/100_days_of_code.git
+2. Go to the Day_3 folder
+3. Run the file: python main.py
