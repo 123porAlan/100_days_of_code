@@ -19,7 +19,7 @@ The objective of the game is to defeat the computer by choosing a weapon that be
    - If both you and the computer choose the same weapon, it's a tie.
 
 
-## How to Play
+## How to Play the Game
 1. Clone the repository:
 
    ```bash
