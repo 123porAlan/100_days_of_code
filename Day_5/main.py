@@ -15,22 +15,22 @@ password_list = []
 
 for char in range(1, nr_letters + 1):
     # random.choice Return a random element from the non-empty sequence seq. If seq is empty, raises IndexError.
-    password_list.append(random.choice(letters)) 
-    
-   
+    password_list += random.choice(letters)
+
 for char in range(1, nr_symbols + 1):
     password_list += random.choice(symbols)
-    
+
 for char in range(1, nr_numbers + 1):
     password_list += random.choice(numbers)
 
-print(password_list)
+# print(password_list)
 # To shuffle an immutable sequence and return a new shuffled list, use sample(x, k=len(x)) instead.
 random.shuffle(password_list)
-print(password_list)
+# print(password_list)
+# Convert back to a string
 password = ""
 for char in password_list:
   password += char
-  
+
 print(f"Your password is: {password}")
 
